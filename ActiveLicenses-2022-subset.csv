@@ -1,7 +1,4 @@
-﻿Textbox9,Textbox12,Textbox14
-03/07/2023,01/01/2022,12/31/2022
-
-SiteID,County,City,DBA,Licensee,PremisesStreet,PremisesCityState,LicenseNumber,LicenseType,Status,IssueDate,EffectiveDate,ExpiryDate
+﻿SiteID,County,City,DBA,Licensee,PremisesStreet,PremisesCityState,LicenseNumber,LicenseType,Status,IssueDate,EffectiveDate,ExpiryDate
 22790,Fayette,Lexington,21c Museum Hotel Lexington,167 MAIN HOTEL LLC ,167 W Main St,"Lexington, KY 40507",034-NQ2-2920,NQ2 Retail Drink License,Active,01/29/2016,01/29/2016,11/30/2023
 26561,Fayette,Lexington,A Cup of Common Wealth,A Cup of Common Wealth LLC ,105 Eastern Ave,"Lexington, KY 40508",034-NQ4-191200,NQ4 Retail Malt Beverage Drink License,Active,06/28/2022,06/28/2022,11/30/2023
 5119,Fayette,Lexington,A P Suggins Bar And Grill,"ROMANY RESTAURANTS, INC. ",345 Romany Rd,"Lexington, KY 40502",034-NQ2-1002,NQ2 Retail Drink License,Active,05/13/2013,06/25/2013,08/31/2023

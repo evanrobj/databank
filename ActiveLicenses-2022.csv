@@ -1,7 +1,4 @@
-﻿Textbox9,Textbox12,Textbox14
-03/07/2023,01/01/2022,12/31/2022
-
-SiteID,County,City,DBA,Licensee,PremisesStreet,PremisesCityState,LicenseNumber,LicenseType,Status,IssueDate,EffectiveDate,ExpiryDate
+﻿SiteID,County,City,DBA,Licensee,PremisesStreet,PremisesCityState,LicenseNumber,LicenseType,Status,IssueDate,EffectiveDate,ExpiryDate
 22790,Fayette,Lexington,21c Museum Hotel Lexington,167 MAIN HOTEL LLC ,167 W Main St,"Lexington, KY 40507",034-CL-422,Caterer's License,Active,02/24/2016,02/24/2016,11/30/2023
 22790,Fayette,Lexington,21c Museum Hotel Lexington,167 MAIN HOTEL LLC ,167 W Main St,"Lexington, KY 40507",034-HI-29,Hotel In-Room License,Active,01/29/2016,01/29/2016,11/30/2023
 22790,Fayette,Lexington,21c Museum Hotel Lexington,167 MAIN HOTEL LLC ,167 W Main St,"Lexington, KY 40507",034-LP-2223,Quota Retail Package License,Active,04/29/2016,04/29/2016,11/30/2023
